@@ -1,0 +1,6 @@
+1,de. supare,40,male,eye surgen
+2,dr. jagtap,60,male,heart specialist
+3,dr. jain,53,female,neurologist
+4,dr. khushbu,28,female,neurologist
+5,dr. khushbu,28,f,eye surgen
+6,dr. kirti,56,female,heart surgen

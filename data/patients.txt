@@ -1,0 +1,2 @@
+1,sagar,20,male,cough
+2,nayan,40,female,thyroid
