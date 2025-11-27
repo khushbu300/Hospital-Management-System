@@ -25,7 +25,7 @@ The system is menu-driven and supports basic CRUD operations like adding and vie
 ⚙️ Features
    * Add Patient
      Stores patient details such as:
-     -> Name
+      Name
      -> Age
      -> Gender
      -> Disease
