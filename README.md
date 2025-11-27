@@ -24,18 +24,10 @@ The system is menu-driven and supports basic CRUD operations like adding and vie
 
 ⚙️ Features
    * Add Patient
-     Stores patient details such as:
-      Name
-      Age
-      Gender
-      Disease
+     Stores patient details such as: Name, Age, Gender, Disease
        
    * Add Doctor
-     Stores doctor details such as:
-     -> Name
-     -> Age
-     -> Gender
-     -> Specialization
+     Stores doctor details such as: Name, Age, Gender, Specialization
 
    * View Patients
      Displays all existing patient records from the database.
@@ -54,11 +46,11 @@ The system is menu-driven and supports basic CRUD operations like adding and vie
 
 🚀 How to Run
 * Install required package:
-    -------    pip install mysql-connector-python
+        pip install mysql-connector-python
 * Create the required database and tables in MySQL.
 * Update database credentials in the Python file.
 * Run the project:
-   ---------   python main.py
+     python main.py
 
 📌 Key Learnings
    * Python–MySQL connectivity
